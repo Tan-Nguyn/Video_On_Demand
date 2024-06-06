@@ -1,9 +1,4 @@
-It looks like this folder contains SQL scripts and other documents related to a database project. I’ll create a `README.md` file to describe these components.
-
-Here’s a draft of the README file:
-
 ---
-
 # Salary Management System
 
 ## Project Overview
